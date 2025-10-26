@@ -1,28 +1,4 @@
 <h4>Hi, I'm Everton Silva, welcome to my GitHub.</h4>
-
-```javascript
-const mySkills = {
-  frontend: {
-    languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-    libraries: ["React", "Vue.js", "Tailwind CSS", "Shadcn/ui"],
-    frameworks: ["Next.js", "Vite"]
-  },
-  backend: {
-    languages: ["PHP", "Python", "Golang", "JavaScript", "TypeScript"],
-    runtimes: ["Node.js"],
-    frameworks: ["NestJS", "Express"]
-  },
-  databases: {
-    relational: ["MySQL", "PostgreSQL", "SOQL"],
-    nonRelational: ["MongoDB"],
-    platforms: ["Salesforce Data Model"]
-  },
-  cloud: ["AWS", "Docker", "Supabase", "Azure DevOps"],
-  tools: ["Git", "OAuth", "REST APIs", "CI/CD"],
-  architecture: ["Clean Architecture", "SOLID"],
-  crm: ["Salesforce CRM"]
-};
-```
 <table>
   <tr>
     <td valign="top" style="padding: 10px;">
