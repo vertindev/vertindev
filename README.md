@@ -76,9 +76,4 @@
 
 ---
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=EvertonSilva&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonSilva&layout=compact&theme=tokyonight"/>
-</p>
-
 <p align="center"><i>“Code with clarity. Build with purpose.” 💡</i></p>
