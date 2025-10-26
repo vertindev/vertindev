@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </p>
 
+---
+
 ### 🧩 Secondary Stacks
 
 <p align="center">
@@ -39,6 +41,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SOQL-009EDB?style=for-the-badge&logo=salesforce&logoColor=white"/>
 </p>
+
+---
 
 ### ☁️ DevOps & Cloud
 <p align="center">
