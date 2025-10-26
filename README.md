@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Software Engineer passionate about building scalable systems, clean architectures, and modern web experiences.</em><br/>
-  <b>Welcome to my GitHub!</b> 🚀
+  <b>Welcome to my GitHub!</b> 
 </p>
 
 ---
