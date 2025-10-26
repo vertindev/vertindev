@@ -21,6 +21,7 @@
 </p>
 
 ### 🧩 Secondary Stacks
+
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -60,6 +61,7 @@
 </p>
 
 ### 💼 CRM & Others
+
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI_Integrations-000000?style=for-the-badge&logo=openai&logoColor=white"/>
