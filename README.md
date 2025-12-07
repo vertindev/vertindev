@@ -8,7 +8,7 @@ I enjoy working with TypeScript, Node.js, and cloud solutions, combining perform
 ### 🧠 Main Technologies
 
 **Languages & Frameworks**
-> JavaScript · TypeScript · Node.js · React · Next.js · Vue.js · NestJS · Express
+> Golang · JavaScript · TypeScript · Node.js · React · Next.js · Vue.js · NestJS · Express
 
 **Styling**
 > Tailwind CSS · Shadcn/UI
